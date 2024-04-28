@@ -1,0 +1,41 @@
+
+.centered-container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+  }
+  
+  .login-form {
+    width: 300px;
+  }
+  
+  .form-group {
+    margin-bottom: 15px;
+  }
+  
+  input[type="text"],
+  input[type="tel"],
+  input[type="password"],
+  button {
+    width: 100%;
+    padding: 10px;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+    box-sizing: border-box;
+  }
+  
+  button {
+    background-color:#bbbad6;
+    color: #fff;
+    cursor: pointer;
+  }
+  
+  button:hover {
+    background-color: #9D9BCD;
+  }
+  h1{
+    color:#9D9BCD;
+  }
+  
+ 

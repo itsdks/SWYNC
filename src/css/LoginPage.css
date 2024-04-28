@@ -1,0 +1,139 @@
+
+  
+  .logo {
+    width: 100px; /* Adjust size as needed */
+    height: auto;
+  }
+  
+  .login-form {
+    width: 300px;
+    border: 1px solid #ccc;
+    padding: 20px;
+    border-radius: 5px;
+  }
+  
+  .form-group {
+    margin-bottom: 15px;
+  }
+  
+  label {
+    display: block;
+    margin-bottom: 5px;
+  }
+  
+  input {
+    width: 100%;
+    padding: 10px;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+  }
+  
+  button {
+    width: 100%;
+    padding: 10px;
+    background-color:#bbbad6;
+    color: #fff;
+    border-radius: 100px;
+    border: none;
+    cursor: pointer;
+    margin-top: 10px;
+  }
+  
+  button:hover {
+    background-color: #9D9BCD;
+  }
+  
+  .forgot-password,
+  .create-account {
+    margin-top: 10px;
+    text-align: center;
+  }
+  
+  .create-account a,
+  .forgot-password a {
+    text-decoration: none;
+    color: #f2f0f0;
+  }
+  
+  .create-account a:hover,
+  .forgot-password a:hover {
+    text-decoration: underline;
+  }
+  .login-form
+  {
+    background-color: #fff;
+  }
+  div.login_form_div
+  {
+    display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  align-self: center;
+  height: 100%;
+    
+  }img.Login_Logo{
+  width: 200px; 
+  height: 200px;
+  margin-top: 26px;
+ display: flex;
+  justify-content: center;
+  align-items: center; 
+  padding-left: 41%;
+  object-fit: contain; 
+
+
+  }
+ .login-form
+ {
+  width: 500px;
+ }
+ .login-container {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  padding-top: 0px;
+  height: 64vh; 
+}
+.heading
+{
+  text-align: center;
+}
+
+h2{
+  color: #9D9BCD;
+}
+h4{
+  color: #9D9BCD;
+}
+.label-login
+{
+  color: #9D9BCD;
+}
+.inputfield-login
+{
+  border-radius: 50px;
+}
+input[type="text"],
+input[type="password"]
+{
+  border: 1px solid #ccc; /* Add border */
+  border-radius: 5px; /* Add rounded edges */
+  padding: 10px; /* Add padding */
+  margin-bottom: 10px;
+}
+a.link-container 
+{
+  align-self:center;
+  text-decoration: none;
+}
+.link-create-new-account
+{
+  align-self: center;
+  text-decoration: none;
+}
+.link-container-submit
+{
+  text-decoration: none;
+}
